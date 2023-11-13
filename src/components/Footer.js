@@ -7,7 +7,7 @@ function Footer() {
         <h2 style={{marginBottom: "30px", fontSize: "2rem"}}>Unicago</h2>
         <h4>Contact</h4>
         <p><strong>Address:</strong> Arya College of Engineering & IT </p>
-        <p><strong>Phone:</strong> (+91) 8529549594</p>
+        <p><strong>Phone:</strong> (+91) 4564312444</p>
         <p><strong>Hours:</strong> 10:00 - 18:00, Mon - Sat</p>
         <div class="follow">
             <h4>Follow Us</h4>
